@@ -11,7 +11,7 @@
 * Social networks allow us to permanently connect to a worldwide network.
 * In business, they help companies to make decisions to improve the way that they work.
 
-**Explain the causes what increase data generacion.**
+**Explain the causes what increase data collection.**
 
 The answer is simple, because we can generate a lot of data about us. This is possible thanks new tools or techniques and they can
 obteined data that we could not do by ourself before. For example, the ability to connect several devices and sensors to the
@@ -45,3 +45,17 @@ data mining tools.
 
 The data analysis is responsible for examining a set of data in order to obtain conclusions to make decisions, or simply expand 
 knowledge on various topics.
+
+### Explain the impact of data analysis in organizations.
+
+Many industries use data analysis to draw conclusions and decide actions to implement. Its impact is shown in these three areas:
+* **Marketing:** To predict consumer behavior.
+* **Human Resources:** To maintain a good working environment and qualify potential employees.
+* **Academics:** To select new students and to measure student performance.
+
+### Explain the different types of data analysis.
+* **Descriptive analysis:** Shows summary numerical data.
+* **Inferential analysis:** Find different conclusions from the same data but different samples.
+* **Diagnostic analysis:** Find the cause of an event found in the statistical analysis.
+* **Predictive analysis:** Shows what can happen with previously used data.
+* **Prescriptive analysis:** Combines all the previous analyzes to determine what action to take on a situation.
