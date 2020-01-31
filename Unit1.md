@@ -63,33 +63,45 @@ Many industries use data analysis to draw conclusions and decide actions to impl
 ## *Other topics*
 
 ### MapReduce
-
 It is a suitable programming model to process large data. Its extraction process consists of two processes:
 **Map:** extract and assign values to certain keys for a single document.
 **Reduce:** Accumulation and combination of document keys to create a unique reduced value for each key.
 
 ### Haddop 
-
 It is a distributed computer library for large data and is based on MapReduce. Its file system is HDFS. It is also capable of 
 making copies as a security method.
 
 ### Apache Spark
-
 Programming environment for libraries with the purpose of massive data processing. Make calculations without using a hard disk, 
 only with RAM. Designed to improve the speed and performance of BigData applications.
 
-### LAMBDA AND KAPPA Architecture
+### LAMBDA and KAPPA architecture
 * In a lambda architecture it implements the information systems: batch and stream. The batch mode gives us a complete and 
 reliable reach while the stream mode gives us the online data for instant decisions.
 * In the kappa architecture, it focuses only on processing data as a sequence. For this architecture, incoming data is 
 transmitted through a real-time layer and the results are placed in the service layer for queries.
 
 ### Docker container
-
 Docker is one of the containerization platforms that can be used to create and run containers. Virtual machines are slow and 
 require a lot of time to boot, so containers are used that are fast and start quickly, since it uses the host operating system 
 and shares the relevant libraries.
 
 ## *Git Commands*
+
+* Git Init: Inicia/Crea un nuevo repositorio.
+* Git Clone: Obtiene una copia de un repositorio existente.
+* Git Status: Enlistado actual del repositorio sobre los archivos.
+* Git Add: Añade archivos al commit.
+* Git Log: Muestra los registros de commits.
+* Git rm: Borra un archivo del repositorio.
+* Git mv: Mueva o renombra un archivo.
+* Git diff -staged: Muestra la diferencia entre el staging area y el commit.
+* Git checkout: Sirve para regresar o cambiar entre commits.
+* Git checkout master: Regresa a la rama principal (Ultimo commit).
+* Git commit --amend: Permite combinar los cambios actuales con el commit anterior. Agrega "-m" para comentario.
+* Git reset: Elimina commits, tiene 3 tipos:
+- Soft: Conserva los cambios del stage area y working area.
+- Mixed: Deshace cambios entre el atage area pero conserva el working area.
+- Hard: Deshace cambios del stage area y working area.
 
 
