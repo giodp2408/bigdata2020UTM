@@ -3,7 +3,7 @@
 ## The importance of data
 
 **Explain the impact of data in nowadays.**
-* We can access to information from different ways, so we can know anything of way more digital and closer, even more personalized.
+* We can access to information from different ways, so we can know anything of way more digital and closer, even personalized.
 * In Sciencie and Medicine,  when collecting data about this fields, they permit to improve reatments and diagnoses.
 * In education, there are training tools to customize the contents and adapt them to the abilities of each person.
 * Social networks allow us to permanently connect to a worldwide network.
