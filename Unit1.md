@@ -29,5 +29,10 @@ Finally, the variety refers to the various types of data available, usually unst
 * Closed Data frequently restricts its use, through licenses or through privacy or security.
 
 **Differentiate between structured and unstructured data.**
-* **Structured data:** It is information that is usually found in most databases. They can be easily sorted and processed by all data mining tools.
+* **Structured data:** It is information that is usually found in most databases. They can be easily sorted and processed by all 
+data mining tools.
 * **Unstructured data:** They have an internal structure, but they are not structured through predefined data schemas or models.
+
+**Differentiate between stored data and moving data.**
+* The stored data are those that are structured and that are used for their analysis and for the generation of information.
+* Moving data is data that is being transmitted on a network. In addition, they are stored in different sources.
