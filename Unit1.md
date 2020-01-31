@@ -59,3 +59,37 @@ Many industries use data analysis to draw conclusions and decide actions to impl
 * **Diagnostic analysis:** Find the cause of an event found in the statistical analysis.
 * **Predictive analysis:** Shows what can happen with previously used data.
 * **Prescriptive analysis:** Combines all the previous analyzes to determine what action to take on a situation.
+
+## *Other topics*
+
+### MapReduce
+
+It is a suitable programming model to process large data. Its extraction process consists of two processes:
+**Map:** extract and assign values to certain keys for a single document.
+**Reduce:** Accumulation and combination of document keys to create a unique reduced value for each key.
+
+### Haddop 
+
+It is a distributed computer library for large data and is based on MapReduce. Its file system is HDFS. It is also capable of 
+making copies as a security method.
+
+### Apache Spark
+
+Programming environment for libraries with the purpose of massive data processing. Make calculations without using a hard disk, 
+only with RAM. Designed to improve the speed and performance of BigData applications.
+
+### LAMBDA AND KAPPA Architecture
+* In a lambda architecture it implements the information systems: batch and stream. The batch mode gives us a complete and 
+reliable reach while the stream mode gives us the online data for instant decisions.
+* In the kappa architecture, it focuses only on processing data as a sequence. For this architecture, incoming data is 
+transmitted through a real-time layer and the results are placed in the service layer for queries.
+
+### Docker container
+
+Docker is one of the containerization platforms that can be used to create and run containers. Virtual machines are slow and 
+require a lot of time to boot, so containers are used that are fast and start quickly, since it uses the host operating system 
+and shares the relevant libraries.
+
+## *Git Commands*
+
+
