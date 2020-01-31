@@ -1,8 +1,8 @@
 # Big Data Class
 
-# *Syllabus contents*
+## *Syllabus contents*
 
-## The importance of data.
+### The importance of data.
 
 **Explain the impact of data in nowadays.**
 * We can access to information from Internet, so we can know anything of way more digital and closer.
