@@ -88,8 +88,11 @@ and shares the relevant libraries.
 
 ## *Git Commands*
 * Git Init: Start / Create a new repository.
+> Example: "Git init"
 * Git Clone: Get a copy of an existing repository.
+> Example: "Git clone https://github.com/libgit2/libgit2"
 * Git Status: Current repository listing on files.
+> Example: "Git status"
 * Git Add: Add files to the commit.
 * Git Log: Shows commit records.
 * Git rm: Deletes a file from the repository.
