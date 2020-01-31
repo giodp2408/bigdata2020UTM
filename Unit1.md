@@ -87,21 +87,19 @@ require a lot of time to boot, so containers are used that are fast and start qu
 and shares the relevant libraries.
 
 ## *Git Commands*
-
-* Git Init: Inicia/Crea un nuevo repositorio.
-* Git Clone: Obtiene una copia de un repositorio existente.
-* Git Status: Enlistado actual del repositorio sobre los archivos.
-* Git Add: Añade archivos al commit.
-* Git Log: Muestra los registros de commits.
-* Git rm: Borra un archivo del repositorio.
-* Git mv: Mueva o renombra un archivo.
-* Git diff -staged: Muestra la diferencia entre el staging area y el commit.
-* Git checkout: Sirve para regresar o cambiar entre commits.
-* Git checkout master: Regresa a la rama principal (Ultimo commit).
-* Git commit --amend: Permite combinar los cambios actuales con el commit anterior. Agrega "-m" para comentario.
-* Git reset: Elimina commits, tiene 3 tipos:
-- Soft: Conserva los cambios del stage area y working area.
-- Mixed: Deshace cambios entre el atage area pero conserva el working area.
-- Hard: Deshace cambios del stage area y working area.
-
+* Git Init: Start / Create a new repository.
+* Git Clone: Get a copy of an existing repository.
+* Git Status: Current repository listing on files.
+* Git Add: Add files to the commit.
+* Git Log: Shows commit records.
+* Git rm: Deletes a file from the repository.
+* Git mv: Move or rename a file.
+* Git diff -staged: Shows the difference between the staging area and the commit.
+* Git checkout: Used to return or switch between commits.
+* Git checkout master: Return to the main branch (Last commit).
+* Git commit --amend: Allows you to combine the current changes with the previous commit. Add "-m" for comment.
+* Git reset: Remove commits, it has 3 types:
+- Soft: Preserves the changes of the stage area and working area.
+- Mixed: Undo changes between the atage area but retain the working area.
+- Hard: Undo changes of the stage area and working area.
 
