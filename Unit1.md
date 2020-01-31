@@ -99,7 +99,7 @@ and shares the relevant libraries.
 * Git checkout master: Return to the main branch (Last commit).
 * Git commit --amend: Allows you to combine the current changes with the previous commit. Add "-m" for comment.
 * Git reset: Remove commits, it has 3 types:
-- Soft: Preserves the changes of the stage area and working area.
-- Mixed: Undo changes between the atage area but retain the working area.
-- Hard: Undo changes of the stage area and working area.
+  - Soft: Preserves the changes of the stage area and working area.
+  - Mixed: Undo changes between the atage area but retain the working area.
+  - Hard: Undo changes of the stage area and working area.
 
