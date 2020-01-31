@@ -94,15 +94,27 @@ and shares the relevant libraries.
 * Git Status: Current repository listing on files.
 > Example: "Git status"
 * Git Add: Add files to the commit.
+> Example: "Git add "txt.txt""
 * Git Log: Shows commit records.
+> Example: "Git log"
 * Git rm: Deletes a file from the repository.
+> Example: "Git rm "txt.txt""
 * Git mv: Move or rename a file.
-* Git diff -staged: Shows the difference between the staging area and the commit.
+> Example: "Git "txt.txt" "txt2.txt""
+* Git diff --staged: Shows the difference between the staging area and the commit.
+> Example: "Git diff --staged"
 * Git checkout: Used to return or switch between commits.
+> Example: "Git checkout XXXXXXXXXXXXXXXX"
 * Git checkout master: Return to the main branch (Last commit).
+> Example: "Git checkout master"
 * Git commit --amend: Allows you to combine the current changes with the previous commit. Add "-m" for comment.
+> Example: "Git commit --amend"
 * Git reset: Remove commits, it has 3 types:
   - Soft: Preserves the changes of the stage area and working area.
+  > Example: "Git reset --soft"
   - Mixed: Undo changes between the atage area but retain the working area.
+  > Example: "Git reset --mixed"
   - Hard: Undo changes of the stage area and working area.
+  > Example: "Git reset --hard"
 
+Made by: Giovanny Dzul 5A IRD
