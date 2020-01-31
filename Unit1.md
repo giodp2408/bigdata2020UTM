@@ -38,3 +38,10 @@ data mining tools.
 **Differentiate between stored data and moving data.**
 * The stored data are those that are structured and that are used for their analysis and for the generation of information.
 * Moving data is data that is being transmitted on a network. In addition, they are stored in different sources.
+
+### Fundamentals of Data Analysis
+
+**Define the meaning of data analysis.**
+
+The data analysis is responsible for examining a set of data in order to obtain conclusions to make decisions, or simply expand 
+knowledge on various topics.
