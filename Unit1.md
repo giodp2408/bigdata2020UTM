@@ -2,7 +2,7 @@
 
 ## *Syllabus contents*
 
-### The importance of data.
+#### The importance of data.
 
 **Explain the impact of data in nowadays.**
 * We can access to information from Internet, so we can know anything of way more digital and closer.
@@ -17,7 +17,7 @@ The answer is simple, because we can generate a lot of data about us. This is po
 obteined data that we could not do by ourself before. For example, the ability to connect several devices and sensors to the
 Internet, who generates a lot of new data at exponential speeds.
 
-## Fundamentals of Big Data.
+#### Fundamentals of Big Data.
 
 **Define the concept of Big Data.**
 
