@@ -25,7 +25,7 @@ prominent are the volume because they process large volumes of unstructured data
 Finally, the variety refers to the various types of data available, usually unstructured.
 
 **Differentiate between open data and private data.**
-* Open Data is public and accessible data for individuals, companies and organizations.
+* Open Data are public and accessible data for individuals, companies and organizations.
 * Closed Data frequently restricts its use, through licenses or through privacy or security.
 
 **Differentiate between structured and unstructured data.**
