@@ -100,7 +100,7 @@ and shares the relevant libraries.
 * Git rm: Deletes a file from the repository.
 > Example: "Git rm "txt.txt""
 * Git mv: Move or rename a file.
-> Example: "Git "txt.txt" "txt2.txt""
+> Example: "Git mv "txt.txt" "txt2.txt""
 * Git diff --staged: Shows the difference between the staging area and the commit.
 > Example: "Git diff --staged"
 * Git checkout: Used to return or switch between commits.
@@ -117,4 +117,5 @@ and shares the relevant libraries.
   - Hard: Undo changes of the stage area and working area.
   > Example: "Git reset --hard"
 
-Made by: Giovanny Dzul 5A IRD
+
+**Made by:** Giovanny Dzul 5A IRD
