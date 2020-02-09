@@ -157,7 +157,7 @@ cargarlos en otra base de datos. Sus tres principales fases son:
   en datos que serán cargados. 
   - *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
-### Diagrama de flujo de datos
+### Definir diagrama de flujo de datos
 
 Es una representación gráfica del flujo de datos a través de un sistema de información y se puede utilizar para la visualización 
 de procesamiento de datos (diseño estructurado). Emplea símbolos definidos, como rectángulos, círculos y flechas, además de 
