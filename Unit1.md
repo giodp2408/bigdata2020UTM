@@ -145,15 +145,15 @@ calidad.
 * *EDA:* Es un enfoque para analizar conjuntos de datos para resumir sus características principales con métodos visuales. Se 
 puede usar un modelo estadístico, pero principalmente EDA es para ver lo que los datos nos pueden decir más allá de la tarea de 
 modelado formal o prueba de hipótesis. 
-> *Medición y dispersión:* Aplica la estadistica descriptiva, Las medidas de tendencia central que son media, mediana y moda. 
+  - *Medición y dispersión:* Aplica la estadistica descriptiva, Las medidas de tendencia central que son media, mediana y moda. 
 Utiliza graficas.
-> *Comparación:* Aplica la estadistica inferencial, usa comparaciones visuales a través de gráficas como la campana de Gauss o 
+  - *Comparación:* Aplica la estadistica inferencial, usa comparaciones visuales a través de gráficas como la campana de Gauss o 
 nubes de dispersión.
 
 * *ETL:* Es el proceso que permite a las organizaciones mover datos desde múltiples fuentes, reformatearlos y limpiarlos, y 
 cargarlos en otra base de datos. Sus tres principales fases son:
-> *Extraer:* La primera parte del proceso ETL consiste en extraer los datos desde los sistemas de origen.
-> *Transformar:* La fase de transformación aplica una serie de reglas o funciones sobre los datos extraídos para convertirlos en 
-datos que serán cargados. 
-> *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
+  - *Extraer:* La primera parte del proceso ETL consiste en extraer los datos desde los sistemas de origen.
+  - *Transformar:* La fase de transformación aplica una serie de reglas o funciones sobre los datos extraídos para convertirlos 
+  en datos que serán cargados. 
+  - *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
