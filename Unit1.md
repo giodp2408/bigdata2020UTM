@@ -120,17 +120,17 @@ and shares the relevant libraries.
 
 **Made by:** Giovanny Dzul 5A IRD
 
-**---------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 ## Identificar el ciclo de vida del análisis de datos.
 
-* Fase 1 Planificar: Se crea la propuesta de investigación, se identifica, describe que datos seran analizados y como se manejaran.
-* Fase 2 Recolectar: Los datos son recogidos de forma manual o usando instrumentos.
-* Fase 3 Controlar la calidad: Los datos pasan a traves de verificaciones e inspecciones para asegurar que los datos sean de calidad.
-* Fase 4 Describir: Los datos se escriben de forma precisa y completa para generar información para su comprensión
-* Fase 5 Preservar: Los datos son enviados a centros de datos para almacenarlos y preservarlos a largo plazo
-* Fase 6 Descubrir: Se identifican y obtienen nuevos datos que son utiles a la investigación
-* Fase 7 Integrar: Los datos obtenidos desde distintas fuentes son combinadas que pueden ser usados en la investigación
-* Fase 8 Analizar: Aqui se usan diversas herramientas que permiten explorar analizar  y visualizar datos.
+* *Fase 1 "Planificar":* Se crea la propuesta de investigación, se identifica, describe que datos seran analizados y como se manejaran.
+* *Fase 2 "Recolectar":* Los datos son recogidos de forma manual o usando instrumentos.
+* *Fase 3 "Controlar la calidad":* Los datos pasan a traves de verificaciones e inspecciones para asegurar que los datos sean de calidad.
+* *Fase 4 "Describir":* Los datos se escriben de forma precisa y completa para generar información para su comprensión
+* *Fase 5 "Preservar":* Los datos son enviados a centros de datos para almacenarlos y preservarlos a largo plazo
+* *Fase 6 "Descubrir":* Se identifican y obtienen nuevos datos que son utiles a la investigación
+* *Fase 7 "Integrar":* Los datos obtenidos desde distintas fuentes son combinadas que pueden ser usados en la investigación
+* *Fase 8 "Analizar":* Aqui se usan diversas herramientas que permiten explorar analizar  y visualizar datos.
 
 
