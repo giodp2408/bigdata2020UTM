@@ -140,7 +140,7 @@ calidad.
 * *Descriptiva:* Recolectar datos característicos para presentarlos en tablas y gráficas. 
 * *Inferencial:* Predecir para estimar para tomar decisiones. También comprende las pruebas de hipótesis.
 
-### Definir Exploratory Data Analysis (EDA) y Extraction Transfer Load (ETL)
+### Definir Exploratory Data Analysis (EDA) y Extraction Transfer Load (ETL).
 
 * *EDA:* Es un enfoque para analizar conjuntos de datos para resumir sus características principales con métodos visuales. Se 
 puede usar un modelo estadístico, pero principalmente EDA es para ver lo que los datos nos pueden decir más allá de la tarea de 
@@ -157,7 +157,7 @@ cargarlos en otra base de datos. Sus tres principales fases son:
   en datos que serán cargados. 
   - *Cargar:* Es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
-### Definir diagrama de flujo de datos
+### Definir diagrama de flujo de datos.
 
 Es una representación gráfica del flujo de datos a través de un sistema de información y se puede utilizar para la visualización 
 de procesamiento de datos (diseño estructurado). Emplea símbolos definidos, como rectángulos, círculos y flechas, además de 
