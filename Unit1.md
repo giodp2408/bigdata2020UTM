@@ -122,15 +122,38 @@ and shares the relevant libraries.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## Identificar el ciclo de vida del análisis de datos.
+### Identificar el ciclo de vida del análisis de datos.
 
-* *Fase 1 "Planificar":* Se crea la propuesta de investigación, se identifica, describe que datos seran analizados y como se manejaran.
+* *Fase 1 "Planificar":* Se crea la propuesta de investigación, se identifica, describe que datos seran analizados y como se 
+manejaran.
 * *Fase 2 "Recolectar":* Los datos son recogidos de forma manual o usando instrumentos.
-* *Fase 3 "Controlar la calidad":* Los datos pasan a traves de verificaciones e inspecciones para asegurar que los datos sean de calidad.
+* *Fase 3 "Controlar la calidad":* Los datos pasan a traves de verificaciones e inspecciones para asegurar que los datos sean de 
+calidad.
 * *Fase 4 "Describir":* Los datos se escriben de forma precisa y completa para generar información para su comprensión
 * *Fase 5 "Preservar":* Los datos son enviados a centros de datos para almacenarlos y preservarlos a largo plazo
 * *Fase 6 "Descubrir":* Se identifican y obtienen nuevos datos que son utiles a la investigación
 * *Fase 7 "Integrar":* Los datos obtenidos desde distintas fuentes son combinadas que pueden ser usados en la investigación
 * *Fase 8 "Analizar":* Aqui se usan diversas herramientas que permiten explorar analizar  y visualizar datos.
 
+### Identificar los diferentes tipos de estadística en el análisis de datos.
+
+* *Descriptiva:* Recolectar datos característicos para presentarlos en tablas y gráficas. 
+* *Inferencial:* Predecir para estimar para tomar decisiones. También comprende las pruebas de hipótesis.
+
+### Definir Exploratory Data Analysis (EDA) y Extraction Transfer Load (ETL)
+
+* *EDA:* Es un enfoque para analizar conjuntos de datos para resumir sus características principales con métodos visuales. Se 
+puede usar un modelo estadístico, pero principalmente EDA es para ver lo que los datos nos pueden decir más allá de la tarea de 
+modelado formal o prueba de hipótesis. 
+> *Medición y dispersión:* Aplica la estadistica descriptiva, Las medidas de tendencia central que son media, mediana y moda. 
+Utiliza graficas.
+> *Comparación:* Aplica la estadistica inferencial, usa comparaciones visuales a través de gráficas como la campana de Gauss o 
+nubes de dispersión.
+
+* *ETL:* Es el proceso que permite a las organizaciones mover datos desde múltiples fuentes, reformatearlos y limpiarlos, y 
+cargarlos en otra base de datos. Sus tres principales fases son:
+> *Extraer:* La primera parte del proceso ETL consiste en extraer los datos desde los sistemas de origen.
+> *Transformar:* La fase de transformación aplica una serie de reglas o funciones sobre los datos extraídos para convertirlos en 
+datos que serán cargados. 
+> *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
