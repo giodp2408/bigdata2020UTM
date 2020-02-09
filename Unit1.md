@@ -163,3 +163,8 @@ Es una representación gráfica del flujo de datos a través de un sistema de in
 de procesamiento de datos (diseño estructurado). Emplea símbolos definidos, como rectángulos, círculos y flechas, además de 
 etiquetas de texto breves, para mostrar las entradas y salidas de datos, los puntos de almacenamiento y las rutas entre cada 
 destino.
+
+#Created by:#
+- Giovanny Dzul
+- Miguel Salvador
+- Fernando Carvajal
