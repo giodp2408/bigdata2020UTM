@@ -144,8 +144,8 @@ calidad.
 
 * *EDA:* Es un enfoque para analizar conjuntos de datos para resumir sus características principales con métodos visuales. Se 
 puede usar un modelo estadístico, pero principalmente EDA es para ver lo que los datos nos pueden decir más allá de la tarea de 
-modelado formal o prueba de hipótesis. 
-  - *Medición y dispersión:* Aplica la estadistica descriptiva, Las medidas de tendencia central que son media, mediana y moda. 
+modelado formal o prueba de hipótesis. Se aplica utilizando cualquiera de las siguientes maneras:
+  - *Medición y dispersión:* Aplica la estadistica descriptiva, usa las medidas de tendencia central que son media, mediana y moda. 
 Utiliza graficas.
   - *Comparación:* Aplica la estadistica inferencial, usa comparaciones visuales a través de gráficas como la campana de Gauss o 
 nubes de dispersión.
@@ -157,3 +157,9 @@ cargarlos en otra base de datos. Sus tres principales fases son:
   en datos que serán cargados. 
   - *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
+### Diagrama de flujo de datos
+
+Es una representación gráfica del flujo de datos a través de un sistema de información y se puede utilizar para la visualización 
+de procesamiento de datos (diseño estructurado). Emplea símbolos definidos, como rectángulos, círculos y flechas, además de 
+etiquetas de texto breves, para mostrar las entradas y salidas de datos, los puntos de almacenamiento y las rutas entre cada 
+destino.
