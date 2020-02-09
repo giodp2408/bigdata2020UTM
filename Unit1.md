@@ -164,7 +164,7 @@ de procesamiento de datos (diseño estructurado). Emplea símbolos definidos, co
 etiquetas de texto breves, para mostrar las entradas y salidas de datos, los puntos de almacenamiento y las rutas entre cada 
 destino.
 
-####### Created by:
+###### Created by:
 - Giovanny Dzul
 - Miguel Salvador
 - Fernando Carvajal
