@@ -155,7 +155,7 @@ cargarlos en otra base de datos. Sus tres principales fases son:
   - *Extraer:* La primera parte del proceso ETL consiste en extraer los datos desde los sistemas de origen.
   - *Transformar:* La fase de transformación aplica una serie de reglas o funciones sobre los datos extraídos para convertirlos 
   en datos que serán cargados. 
-  - *Cargar:* es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
+  - *Cargar:* Es el momento en el cual los datos de la fase anterior (transformación) son cargados en el sistema de destino. 
 
 ### Definir diagrama de flujo de datos
 
