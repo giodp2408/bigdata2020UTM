@@ -1,4 +1,4 @@
-## Big Data Class
+## Big Data Class - Unit 2
 
 ###  The functions/commands used at the first folder (getting and knowing your data)
 
@@ -22,3 +22,5 @@
 * **mean():** Computes mean of groups.
 * **describe():** Generates descriptive statistics.
 * **nunique():** Counts distinct observations over requested axis.
+
+#### Created by: Giovanny Dzul
