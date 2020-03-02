@@ -1,0 +1,21 @@
+Name,Num_Team,Project,Week,Grade
+Giovanny Dzul,2,Helloffice,1,80
+Giovanny Dzul,2,Helloffice,2,78
+Giovanny Dzul,2,Helloffice,3,90
+Giovanny Dzul,2,Helloffice,4,78
+Giovanny Dzul,2,Helloffice,5,90
+Jesus Cua,3,Cuarcamo,1,99
+Jesus Cua,3,Cuarcamo,2,99
+Jesus Cua,3,Cuarcamo,3,99
+Jesus Cua,3,Cuarcamo,4,99
+Jesus Cua,3,Cuarcamo,5,99
+Erick Matos,3,Platicta,1,70
+Erick Matos,3,Platicta,2,77
+Erick Matos,3,Platicta,3,78
+Erick Matos,3,Platicta,4,99
+Erick Matos,3,Platicta,5,99
+Santiago Molina,3,Pek,1,100
+Santiago Molina,3,Pek,2,89
+Santiago Molina,3,Pek,3,89
+Santiago Molina,3,Pek,4,89
+Santiago Molina,3,Pek,5,78
