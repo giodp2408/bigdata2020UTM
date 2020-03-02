@@ -9,7 +9,7 @@ Jesus Cua,3,Cuarcamo,2,99
 Jesus Cua,3,Cuarcamo,3,99
 Jesus Cua,3,Cuarcamo,4,99
 Jesus Cua,3,Cuarcamo,5,99
-Erick Matos,5,Platicta,1,70
+Erick Matos,3,Platicta,1,70
 Erick Matos,3,Platicta,2,77
 Erick Matos,3,Platicta,3,78
 Erick Matos,3,Platicta,4,99
