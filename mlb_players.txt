@@ -1,0 +1,554 @@
+Career,Name," ""Team"""," ""Position"""," ""Height(inches)"""," ""Weight(lbs)"""," ""Age"""
+TIC,Matt Guerrier," ""MIN"""," ""Relief Pitcher""",75,185,28.58
+TIC,Joe Nathan," ""MIN"""," ""Relief Pitcher""",76,205,32.27
+TIC,Dennys Reyes," ""MIN"""," ""Relief Pitcher""",75,245,29.86
+TIC,Brayan Pe?a," ""ATL"""," ""Catcher""",71,220,25.14
+TIC,Brian McCann," ""ATL"""," ""Catcher""",75,210,23.03
+TIC,Craig Wilson," ""ATL"""," ""First Baseman""",74,220,30.25
+TIC,Chris Woodward," ""ATL"""," ""Second Baseman""",72,185,30.67
+TIC,Pete Orr," ""ATL"""," ""Second Baseman""",73,175,27.73
+TIC,Martin Prado," ""ATL"""," ""Second Baseman""",73,170,23.34
+TIC,Tony Pe?a," ""ATL"""," ""Shortstop""",73,180,25.94
+TIC,Edgar Renteria," ""ATL"""," ""Shortstop""",73,200,31.56
+TIC,Chipper Jones," ""ATL"""," ""Third Baseman""",76,210,34.85
+TIC,Willy Aybar," ""ATL"""," ""Third Baseman""",72,175,23.98
+TIC,Jeff Francoeur," ""ATL"""," ""Outfielder""",76,220,23.14
+TIC,Matt Diaz," ""ATL"""," ""Outfielder""",73,206,28.99
+TIC,Kelly Johnson," ""ATL"""," ""Outfielder""",73,180,25.02
+TIC,Andruw Jones," ""ATL"""," ""Outfielder""",73,210,29.85
+TIC,Ryan Langerhans," ""ATL"""," ""Outfielder""",75,195,27.03
+TIC,Scott Thorman," ""ATL"""," ""Outfielder""",75,200,25.15
+TIC,T.J. Bohn," ""ATL"""," ""Outfielder""",77,200,27.12
+TIC,Tim Hudson," ""ATL"""," ""Starting Pitcher""",73,164,31.63
+TIC,Jonathan Johnson," ""ATL"""," ""Starting Pitcher""",72,180,32.62
+TIC,John Smoltz," ""ATL"""," ""Starting Pitcher""",75,220,39.79
+TIC,Mike Hampton," ""ATL"""," ""Starting Pitcher""",70,195,34.47
+TIC,Kyle Davies," ""ATL"""," ""Starting Pitcher""",74,205,23.47
+TIC,Chuck James," ""ATL"""," ""Starting Pitcher""",72,170,25.31
+TIC,Phil Stockman," ""ATL"""," ""Relief Pitcher""",80,240,27.1
+TIC,Macay McBride," ""ATL"""," ""Relief Pitcher""",71,210,24.35
+TIC,Joey Devine," ""ATL"""," ""Relief Pitcher""",71,195,23.45
+TIC,Peter Moylan," ""ATL"""," ""Relief Pitcher""",74,200,28.24
+TIC,Mike Gonzalez," ""ATL"""," ""Relief Pitcher""",74,205,28.77
+TIC,Lance Cormier," ""ATL"""," ""Relief Pitcher""",73,192,26.53
+TIC,Blaine Boyer," ""ATL"""," ""Relief Pitcher""",75,190,25.64
+TIC,Manny Acosta," ""ATL"""," ""Relief Pitcher""",76,170,25.83
+TIC,Bob Wickman," ""ATL"""," ""Relief Pitcher""",73,240,38.06
+TIC,Tanyon Sturtze," ""ATL"""," ""Relief Pitcher""",77,200,36.38
+TIC,Oscar Villarreal," ""ATL"""," ""Relief Pitcher""",72,205,25.27
+TIC,Rafael Soriano," ""ATL"""," ""Relief Pitcher""",73,175,27.2
+TIC,Chad Paronto," ""ATL"""," ""Relief Pitcher""",77,250,31.59
+TIC,Tyler Yates," ""ATL"""," ""Relief Pitcher""",76,220,29.56
+TIC,Henry Blanco," ""CHC"""," ""Catcher""",71,224,35.5
+TIC,Michael Barrett," ""CHC"""," ""Catcher""",75,210,30.35
+TIC,Geovany Soto," ""CHC"""," ""Catcher""",73,195,24.11
+TIC,Scott Moore," ""CHC"""," ""First Baseman""",74,180,23.29
+TIC,Derrek Lee," ""CHC"""," ""First Baseman""",77,245,31.48
+TIC,Ryan Theriot," ""CHC"""," ""Second Baseman""",71,175,27.23
+TIC,Ronny Cedeno," ""CHC"""," ""Shortstop""",72,180,24.07
+TIC,Aramis Ramirez," ""CHC"""," ""Third Baseman""",73,215,28.68
+TIC,Cesar Izturis," ""CHC"""," ""Third Baseman""",69,175,27.05
+TIC,Alfonso Soriano," ""CHC"""," ""Outfielder""",73,180,31.15
+TIC,Jacque Jones," ""CHC"""," ""Outfielder""",70,195,31.85
+TIC,Daryle Ward," ""CHC"""," ""Outfielder""",74,230,31.68
+TIC,Cliff Floyd," ""CHC"""," ""Outfielder""",76,230,34.23
+TIC,Mark DeRosa," ""CHC"""," ""Outfielder""",73,205,32.01
+TIC,Matt Murton," ""CHC"""," ""Outfielder""",73,215,25.41
+TIC,Buck Coats," ""CHC"""," ""Outfielder""",75,195,24.73
+TIC,Angel Pagan," ""CHC"""," ""Outfielder""",73,180,25.66
+TIC,Sean Marshall," ""CHC"""," ""Starting Pitcher""",79,205,24.5
+TIC,Carlos Marmol," ""CHC"""," ""Starting Pitcher""",74,180,24.38
+TIC,Ryan O'Malley," ""CHC"""," ""Starting Pitcher""",73,190,26.89
+TIC,Juan Mateo," ""CHC"""," ""Starting Pitcher""",74,180,24.2
+TIC,Rich Hill," ""CHC"""," ""Starting Pitcher""",77,190,26.97
+TIC,Angel Guzman," ""CHC"""," ""Starting Pitcher""",75,190,25.21
+TIC,Wade Miller," ""CHC"""," ""Starting Pitcher""",74,220,30.46
+TIC,Jason Marquis," ""CHC"""," ""Starting Pitcher""",73,210,28.53
+TIC,Carlos Zambrano," ""CHC"""," ""Starting Pitcher""",77,255,25.75
+TIC,Ted Lilly," ""CHC"""," ""Starting Pitcher""",73,190,31.15
+TIC,Mark Prior," ""CHC"""," ""Starting Pitcher""",77,230,26.48
+TIC,Neal Cotts," ""CHC"""," ""Relief Pitcher""",74,200,26.93
+TIC,Will Ohman," ""CHC"""," ""Relief Pitcher""",74,205,29.55
+TIC,Scott Eyre," ""CHC"""," ""Relief Pitcher""",73,210,34.75
+TIC,Kerry Wood," ""CHC"""," ""Relief Pitcher""",77,225,29.71
+TIC,Ryan Dempster," ""CHC"""," ""Relief Pitcher""",74,215,29.83
+TIC,Bob Howry," ""CHC"""," ""Relief Pitcher""",77,220,33.57
+TIC,Mike Wuertz," ""CHC"""," ""Relief Pitcher""",75,205,28.21
+TIC,Roberto Novoa," ""CHC"""," ""Relief Pitcher""",77,200,27.54
+TIC,Chris Snyder," ""ARZ"""," ""Catcher""",75,220,26.05
+TIC,Miguel Montero," ""ARZ"""," ""Catcher""",71,197,23.64
+TIC,Conor Jackson," ""ARZ"""," ""First Baseman""",74,225,24.82
+TIC,Robby Hammock," ""ARZ"""," ""First Baseman""",70,187,29.8
+TIC,Tony Clark," ""ARZ"""," ""First Baseman""",79,245,34.71
+TIC,Orlando Hudson," ""ARZ"""," ""Second Baseman""",72,185,29.22
+TIC,Stephen Drew," ""ARZ"""," ""Shortstop""",72,185,23.96
+TIC,Alberto Callaspo," ""ARZ"""," ""Shortstop""",70,175,23.87
+TIC,Chad Tracy," ""ARZ"""," ""Third Baseman""",74,200,26.77
+TIC,Chris Young," ""ARZ"""," ""Outfielder""",74,180,23.49
+TIC,Scott Hairston," ""ARZ"""," ""Outfielder""",72,188,26.77
+TIC,Carlos Quentin," ""ARZ"""," ""Outfielder""",73,225,24.51
+TIC,Jeff DaVanon," ""ARZ"""," ""Outfielder""",72,200,33.23
+TIC,Eric Byrnes," ""ARZ"""," ""Outfielder""",74,210,31.04
+TIC,Livan Hernandez," ""ARZ"""," ""Starting Pitcher""",74,245,32.02
+TIC,Doug Davis," ""ARZ"""," ""Starting Pitcher""",76,213,31.44
+TIC,Randy Johnson," ""ARZ"""," ""Starting Pitcher""",82,231,43.47
+TIC,Juan Cruz," ""ARZ"""," ""Starting Pitcher""",74,165,28.38
+TIC,Brandon Webb," ""ARZ"""," ""Starting Pitcher""",74,228,27.81
+TIC,Enrique Gonzalez," ""ARZ"""," ""Starting Pitcher""",70,210,24.57
+TIC,Dana Eveland," ""ARZ"""," ""Starting Pitcher""",73,250,23.34
+TIC,Brandon Medders," ""ARZ"""," ""Relief Pitcher""",73,191,27.09
+TIC,Tony Pe?a," ""ARZ"""," ""Relief Pitcher""",74,190,25.14
+TIC,Doug Slaten," ""ARZ"""," ""Relief Pitcher""",77,200,27.07
+TIC,Edgar Gonzalez," ""ARZ"""," ""Relief Pitcher""",72,215,24.02
+TIC,Jose Valverde," ""ARZ"""," ""Relief Pitcher""",76,254,27.6
+TIC,Jorge Julio," ""ARZ"""," ""Relief Pitcher""",73,232,27.99
+TIC,Brandon Lyon," ""ARZ"""," ""Relief Pitcher""",73,180,27.56
+TIC,Miguel Olivo," ""FLA"""," ""Catcher""",72,215,28.63
+TIC,Matt Treanor," ""FLA"""," ""Catcher""",74,220,30.99
+TIC,Mike Jacobs," ""FLA"""," ""First Baseman""",74,180,26.33
+TIC,Dan Uggla," ""FLA"""," ""Second Baseman""",71,200,26.97
+TIC,Robert Andino," ""FLA"""," ""Shortstop""",72,170,22.85
+TIC,Hanley Ramirez," ""FLA"""," ""Shortstop""",75,195,23.19
+TIC,Miguel Cabrera," ""FLA"""," ""Third Baseman""",74,210,23.87
+TIC,Aaron Boone," ""FLA"""," ""Third Baseman""",74,200,33.98
+TIC,Joe Borchard," ""FLA"""," ""Outfielder""",77,220,28.26
+TIC,Alfredo Amezaga," ""FLA"""," ""Outfielder""",70,165,29.12
+TIC,Cody Ross," ""FLA"""," ""Outfielder""",71,180,26.18
+TIC,Josh Willingham," ""FLA"""," ""Outfielder""",73,200,28.03
+TIC,Jeremy Hermida," ""FLA"""," ""Outfielder""",76,200,23.08
+TIC,Eric Reed," ""FLA"""," ""Outfielder""",71,170,26.24
+TIC,Reggi Abercrombie," ""FLA"""," ""Outfielder""",75,224,26.63
+TIC,Ricky Nolasco," ""FLA"""," ""Starting Pitcher""",74,220,24.21
+TIC,Anibal Sanchez," ""FLA"""," ""Starting Pitcher""",72,180,23.01
+TIC,Scott Olsen," ""FLA"""," ""Starting Pitcher""",76,198,23.13
+TIC,Josh Johnson," ""FLA"""," ""Starting Pitcher""",79,240,23.08
+TIC,Dontrelle Willis," ""FLA"""," ""Starting Pitcher""",76,239,25.13
+TIC,Logan Kensing," ""FLA"""," ""Relief Pitcher""",73,185,24.66
+TIC,Sergio Mitre," ""FLA"""," ""Relief Pitcher""",76,210,26.03
+TIC,Kevin Gregg," ""FLA"""," ""Relief Pitcher""",78,220,28.7
+TIC,Travis Bowyer," ""FLA"""," ""Relief Pitcher""",75,200,25.57
+TIC,Renyel Pinto," ""FLA"""," ""Relief Pitcher""",76,195,24.65
+TIC,Randy Messenger," ""FLA"""," ""Relief Pitcher""",72,220,25.55
+TIC,Yusmeiro Petit," ""FLA"""," ""Relief Pitcher""",72,230,22.27
+TIC,Carlos Martinez," ""FLA"""," ""Relief Pitcher""",73,170,24.76
+TIC,Taylor Tankersley," ""FLA"""," ""Relief Pitcher""",73,220,23.98
+TIC,Henry Owens," ""FLA"""," ""Relief Pitcher""",75,230,27.85
+TIC,Jose Garcia," ""FLA"""," ""Relief Pitcher""",71,165,22.14
+TIC,Matt Lindstrom," ""FLA"""," ""Relief Pitcher""",76,205,27.05
+TIC,Javier Valentin," ""CIN"""," ""Catcher""",70,192,31.45
+TIC,Chad Moeller," ""CIN"""," ""Catcher""",75,210,32.03
+TIC,David Ross," ""CIN"""," ""Catcher""",74,205,29.95
+TIC,Joey Votto," ""CIN"""," ""First Baseman""",75,200,23.47
+TIC,Scott Hatteberg," ""CIN"""," ""First Baseman""",73,210,37.21
+TIC,Brandon Phillips," ""CIN"""," ""Second Baseman""",71,185,25.67
+TIC,Juan Castro," ""CIN"""," ""Shortstop""",71,195,34.69
+TIC,Alex Gonzalez," ""CIN"""," ""Shortstop""",72,202,30.04
+TIC,Mark Bellhorn," ""CIN"""," ""Third Baseman""",73,205,32.52
+TIC,Edwin Encarnacion," ""CIN"""," ""Third Baseman""",73,195,24.15
+TIC,Jeff Keppinger," ""CIN"""," ""Third Baseman""",72,180,26.86
+TIC,Norris Hopper," ""CIN"""," ""Outfielder""",69,200,27.94
+TIC,Chris Denorfia," ""CIN"""," ""Outfielder""",73,185,26.63
+TIC,Adam Dunn," ""CIN"""," ""Outfielder""",78,240,27.31
+TIC,Bubba Crosby," ""CIN"""," ""Outfielder""",71,185,30.55
+TIC,Jeff Conine," ""CIN"""," ""Outfielder""",73,220,40.68
+TIC,Ken Griffey Jr.," ""CIN"""," ""Outfielder""",75,205,37.27
+TIC,Josh Hamilton," ""CIN"""," ""Outfielder""",76,205,25.78
+TIC,Ryan Freel," ""CIN"""," ""Outfielder""",70,180,30.98
+TIC,Kyle Lohse," ""CIN"""," ""Starting Pitcher""",74,201,28.41
+TIC,Bronson Arroyo," ""CIN"""," ""Starting Pitcher""",77,190,30.01
+TIC,Eric Milton," ""CIN"""," ""Starting Pitcher""",75,208,31.57
+TIC,Aaron Harang," ""CIN"""," ""Starting Pitcher""",79,240,28.81
+TIC,Kirk Saarloos," ""CIN"""," ""Starting Pitcher""",72," """"",27.77
+TIC,Elizardo Ramirez," ""CIN"""," ""Starting Pitcher""",72,180,24.09
+TIC,Todd Coffey," ""CIN"""," ""Relief Pitcher""",77,230,26.47
+TIC,Brian Shackelford," ""CIN"""," ""Relief Pitcher""",73,195,30.5
+TIC,Bill Bray," ""CIN"""," ""Relief Pitcher""",75,215,23.74
+TIC,Bobby Livingston," ""CIN"""," ""Relief Pitcher""",75,190,24.49
+TIC,Matt Belisle," ""CIN"""," ""Relief Pitcher""",75,195,26.73
+TIC,Gary Majewski," ""CIN"""," ""Relief Pitcher""",73,215,27.01
+TIC,Mike Stanton," ""CIN"""," ""Relief Pitcher""",73,215,39.75
+TIC,Brad Salmon," ""CIN"""," ""Relief Pitcher""",76,220,27.16
+TIC,Jared Burton," ""CIN"""," ""Relief Pitcher""",77,220,25.74
+TIC,David Weathers," ""CIN"""," ""Relief Pitcher""",75,230,37.43
+TIC,Rheal Cormier," ""CIN"""," ""Relief Pitcher""",70,195,39.85
+TIC,Yorvit Torrealba," ""COL"""," ""Catcher""",71,190,28.62
+TIC,Chris Iannetta," ""COL"""," ""Catcher""",71,195,23.9
+TIC,Alvin Colina," ""COL"""," ""Catcher""",75,209,25.18
+TIC,Todd Helton," ""COL"""," ""First Baseman""",74,204,33.53
+TIC,Jamey Carroll," ""COL"""," ""Second Baseman""",69,170,33.03
+TIC,Kaz Matsui," ""COL"""," ""Second Baseman""",70,185,31.35
+TIC,Troy Tulowitzki," ""COL"""," ""Shortstop""",75,205,22.39
+TIC,Clint Barmes," ""COL"""," ""Shortstop""",72,175,27.99
+TIC,Garrett Atkins," ""COL"""," ""Third Baseman""",75,210,27.22
+TIC,Ryan Spilborghs," ""COL"""," ""Outfielder""",73,190,27.49
+TIC,Cory Sullivan," ""COL"""," ""Outfielder""",72,180,27.53
+TIC,Jeff Salazar," ""COL"""," ""Outfielder""",72,180,26.26
+TIC,Willy Taveras," ""COL"""," ""Outfielder""",72,160,25.18
+TIC,Matt Holliday," ""COL"""," ""Outfielder""",76,235,27.12
+TIC,Brad Hawpe," ""COL"""," ""Outfielder""",75,200,27.69
+TIC,Jeff Baker," ""COL"""," ""Outfielder""",74,210,25.69
+TIC,Javy Lopez," ""COL"""," ""Designated Hitter""",75,224,36.32
+TIC,Byung-Hyun Kim," ""COL"""," ""Starting Pitcher""",69,180,28.11
+TIC,Rodrigo Lopez," ""COL"""," ""Starting Pitcher""",73,190,31.21
+TIC,Brian Lawrence," ""COL"""," ""Starting Pitcher""",72,197,30.8
+TIC,Josh Fogg," ""COL"""," ""Starting Pitcher""",72,203,30.21
+TIC,Aaron Cook," ""COL"""," ""Starting Pitcher""",75,205,28.06
+TIC,Denny Bautista," ""COL"""," ""Starting Pitcher""",77,170,26.52
+TIC,Ubaldo Jimenez," ""COL"""," ""Starting Pitcher""",76,200,23.1
+TIC,Jason Hirsh," ""COL"""," ""Starting Pitcher""",80,250,25.02
+TIC,Jeff Francis," ""COL"""," ""Starting Pitcher""",77,200,26.14
+TIC,Taylor Buchholz," ""COL"""," ""Starting Pitcher""",76,220,25.38
+TIC,Ryan Speier," ""COL"""," ""Relief Pitcher""",79,200,27.6
+TIC,Ramon Ramirez," ""COL"""," ""Relief Pitcher""",71,190,25.5
+TIC,Manny Corpas," ""COL"""," ""Relief Pitcher""",75,170,24.24
+TIC,Juan Morillo," ""COL"""," ""Relief Pitcher""",73,190,23.32
+TIC,Brian Fuentes," ""COL"""," ""Relief Pitcher""",76,220,31.56
+TIC,LaTroy Hawkins," ""COL"""," ""Relief Pitcher""",77,215,34.19
+TIC,Tom Martin," ""COL"""," ""Relief Pitcher""",73,206,36.78
+TIC,Jeremy Affeldt," ""COL"""," ""Relief Pitcher""",76,215,27.73
+TIC,Paul Lo Duca," ""NYM"""," ""Catcher""",70,185,34.88
+TIC,Ramon Castro," ""NYM"""," ""Catcher""",75,235,31
+TIC,Julio Franco," ""NYM"""," ""First Baseman""",73,188,48.52
+TIC,Carlos Delgado," ""NYM"""," ""First Baseman""",75,230,34.68
+TIC,Jose Valentin," ""NYM"""," ""Second Baseman""",70,195,37.38
+TIC,Anderson Hernandez," ""NYM"""," ""Second Baseman""",69,168,24.33
+TIC,Damion Easley," ""NYM"""," ""Shortstop""",71,190,37.3
+TIC,Jose Reyes," ""NYM"""," ""Shortstop""",72,160,23.72
+TIC,David Wright," ""NYM"""," ""Third Baseman""",72,200,24.19
+TIC,Ben Johnson," ""NYM"""," ""Outfielder""",73,200,25.7
+TIC,Endy Chavez," ""NYM"""," ""Outfielder""",70,189,29.06
+TIC,David Newhan," ""NYM"""," ""Outfielder""",70,180,33.48
+TIC,Carlos Beltran," ""NYM"""," ""Outfielder""",73,190,29.85
+TIC,Shawn Green," ""NYM"""," ""Outfielder""",76,200,34.3
+TIC,Moises Alou," ""NYM"""," ""Outfielder""",75,220,40.66
+TIC,Lastings Milledge," ""NYM"""," ""Outfielder""",72,187,21.9
+TIC,Alay Soler," ""NYM"""," ""Starting Pitcher""",73,240,27.39
+TIC,Mike Pelfrey," ""NYM"""," ""Starting Pitcher""",79,190,23.13
+TIC,Pedro Martinez," ""NYM"""," ""Starting Pitcher""",71,180,35.35
+TIC,Tom Glavine," ""NYM"""," ""Starting Pitcher""",72,185,40.93
+TIC,Chan Ho Park," ""NYM"""," ""Starting Pitcher""",74,210,33.67
+TIC,Orlando Hernandez," ""NYM"""," ""Starting Pitcher""",74,220,37.39
+TIC,Dave Williams," ""NYM"""," ""Starting Pitcher""",74,219,27.97
+TIC,Oliver Perez," ""NYM"""," ""Starting Pitcher""",72,190,25.54
+TIC,John Maine," ""NYM"""," ""Starting Pitcher""",76,193,25.81
+TIC,Marcos Carvajal," ""NYM"""," ""Relief Pitcher""",76,175,22.53
+TIC,Ambiorix Burgos," ""NYM"""," ""Relief Pitcher""",72,180,22.86
+TIC,Jason Vargas," ""NYM"""," ""Relief Pitcher""",72,215,24.07
+TIC,Jon Adkins," ""NYM"""," ""Relief Pitcher""",71,210,29.5
+TIC,Juan Padilla," ""NYM"""," ""Relief Pitcher""",72,200,30.03
+TIC,Duaner Sanchez," ""NYM"""," ""Relief Pitcher""",72,190,27.38
+TIC,Pedro Feliciano," ""NYM"""," ""Relief Pitcher""",70,185,30.51
+TIC,Aaron Heilman," ""NYM"""," ""Relief Pitcher""",77,220,28.3
+TIC,Jorge Sosa," ""NYM"""," ""Relief Pitcher""",74,170,29.84
+TIC,Scott Schoeneweis," ""NYM"""," ""Relief Pitcher""",72,195,33.41
+TIC,Guillermo Mota," ""NYM"""," ""Relief Pitcher""",76,205,33.6
+TIC,Billy Wagner," ""NYM"""," ""Relief Pitcher""",71,195,35.6
+TIC,Philip Humber," ""NYM"""," ""Relief Pitcher""",76,210,24.19
+TIC,Brad Ausmus," ""HOU"""," ""Catcher""",71,190,37.88
+TIC,Humberto Quintero," ""HOU"""," ""Catcher""",73,190,27.56
+TIC,Hector Gimenez," ""HOU"""," ""Catcher""",70,180,24.42
+TIC,Lance Berkman," ""HOU"""," ""First Baseman""",73,220,31.05
+TIC,Mike Lamb," ""HOU"""," ""First Baseman""",73,190,31.56
+TIC,Mark Loretta," ""HOU"""," ""Second Baseman""",72,186,35.55
+TIC,Craig Biggio," ""HOU"""," ""Second Baseman""",71,185,41.21
+TIC,Brooks Conrad," ""HOU"""," ""Second Baseman""",71,190,27.12
+TIC,Chris Burke," ""HOU"""," ""Second Baseman""",71,180,26.97
+TIC,Eric Bruntlett," ""HOU"""," ""Second Baseman""",72,190,28.92
+TIC,Adam Everett," ""HOU"""," ""Shortstop""",72,170,30.06
+TIC,Morgan Ensberg," ""HOU"""," ""Third Baseman""",74,210,31.51
+TIC,Carlos Lee," ""HOU"""," ""Outfielder""",74,240,30.69
+TIC,Jason Lane," ""HOU"""," ""Outfielder""",74,220,30.19
+TIC,Orlando Palmeiro," ""HOU"""," ""Outfielder""",71,180,38.11
+TIC,Luke Scott," ""HOU"""," ""Outfielder""",72,210,28.68
+TIC,Charlton Jimerson," ""HOU"""," ""Outfielder""",75,210,27.44
+TIC,Fernando Nieve," ""HOU"""," ""Starting Pitcher""",72,195,24.63
+TIC,Wandy Rodriguez," ""HOU"""," ""Starting Pitcher""",71,160,28.11
+TIC,Brandon Backe," ""HOU"""," ""Starting Pitcher""",72,180,28.9
+TIC,Matt Albers," ""HOU"""," ""Starting Pitcher""",72,205,24.11
+TIC,Woody Williams," ""HOU"""," ""Starting Pitcher""",72,200,40.53
+TIC,Roy Oswalt," ""HOU"""," ""Starting Pitcher""",72,185,29.5
+TIC,Jason Jennings," ""HOU"""," ""Starting Pitcher""",74,245,28.62
+TIC,Miguel Asencio," ""HOU"""," ""Relief Pitcher""",74,190,26.42
+TIC,Brad Lidge," ""HOU"""," ""Relief Pitcher""",77,210,30.18
+TIC,Trever Miller," ""HOU"""," ""Relief Pitcher""",75,200,33.75
+TIC,David Borkowski," ""HOU"""," ""Relief Pitcher""",73,200,30.06
+TIC,Dan Wheeler," ""HOU"""," ""Relief Pitcher""",75,222,29.22
+TIC,Paul Estrada," ""HOU"""," ""Relief Pitcher""",73,215,24.47
+TIC,Lincoln Holdzkom," ""HOU"""," ""Relief Pitcher""",76,240,24.94
+TIC,Chris Sampson," ""HOU"""," ""Relief Pitcher""",72,170,28.77
+TIC,Chad Qualls," ""HOU"""," ""Relief Pitcher""",77,220,28.54
+TIC,Ezequiel Astacio," ""HOU"""," ""Relief Pitcher""",75,156,27.32
+TIC,Mike Lieberthal," ""LA"""," ""Catcher""",72,190,35.12
+TIC,Russell Martin," ""LA"""," ""Catcher""",71,202,24.04
+TIC,Olmedo Saenz," ""LA"""," ""First Baseman""",71,221,36.39
+TIC,James Loney," ""LA"""," ""First Baseman""",75,200,22.81
+TIC,Nomar Garciaparra," ""LA"""," ""First Baseman""",72,190,33.6
+TIC,Jeff Kent," ""LA"""," ""Second Baseman""",73,210,38.98
+TIC,Ramon Martinez," ""LA"""," ""Second Baseman""",73,190,34.39
+TIC,Marlon Anderson," ""LA"""," ""Second Baseman""",71,200,33.15
+TIC,Rafael Furcal," ""LA"""," ""Shortstop""",70,165,29.35
+TIC,Wilson Betemit," ""LA"""," ""Third Baseman""",75,190,26.59
+TIC,Andy LaRoche," ""LA"""," ""Third Baseman""",71,185,23.46
+TIC,Matt Kemp," ""LA"""," ""Outfielder""",76,230,22.43
+TIC,Andre Ethier," ""LA"""," ""Outfielder""",73,208,24.89
+TIC,Delwyn Young," ""LA"""," ""Outfielder""",68,209,24.67
+TIC,Jason Repko," ""LA"""," ""Outfielder""",71,175,26.17
+TIC,Juan Pierre," ""LA"""," ""Outfielder""",72,180,29.54
+TIC,Luis Gonzalez," ""LA"""," ""Outfielder""",74,200,39.49
+TIC,Jason Schmidt," ""LA"""," ""Starting Pitcher""",77,205,34.08
+TIC,Randy Wolf," ""LA"""," ""Starting Pitcher""",72,200,30.52
+TIC,Brad Penny," ""LA"""," ""Starting Pitcher""",76,250,28.77
+TIC,Derek Lowe," ""LA"""," ""Starting Pitcher""",78,210,33.75
+TIC,Mark Hendrickson," ""LA"""," ""Starting Pitcher""",81,230,32.69
+TIC,Chad Billingsley," ""LA"""," ""Starting Pitcher""",72,244,22.59
+TIC,Takashi Saito," ""LA"""," ""Relief Pitcher""",73,202,37.04
+TIC,Jonathan Broxton," ""LA"""," ""Relief Pitcher""",76,240,22.7
+TIC,Hong-Chih Kuo," ""LA"""," ""Relief Pitcher""",72,200,25.6
+TIC,Eric Stults," ""LA"""," ""Relief Pitcher""",72,215,27.23
+TIC,Chin-Hui Tsao," ""LA"""," ""Relief Pitcher""",74,177,25.74
+TIC,Tim Hamulack," ""LA"""," ""Relief Pitcher""",76,210,30.29
+TIC,Yhency Brazoban," ""LA"""," ""Relief Pitcher""",73,170,26.72
+TIC,Brett Tomko," ""LA"""," ""Relief Pitcher""",76,215,33.9
+TIC,Joe Beimel," ""LA"""," ""Relief Pitcher""",75,217,29.86
+TIC,Elmer Dessens," ""LA"""," ""Relief Pitcher""",70,198,36.13
+TIC,Ryan Budde," ""PHI"""," ""Catcher""",71,200,27.54
+TIC,Rod Barajas," ""PHI"""," ""Catcher""",74,220,31.49
+TIC,Carlos Ruiz," ""PHI"""," ""Catcher""",72,170,28.1
+TIC,Chris Coste," ""PHI"""," ""Catcher""",73,200,34.07
+TIC,Ryan Howard," ""PHI"""," ""First Baseman""",76,230,27.28
+TIC,Wes Helms," ""PHI"""," ""First Baseman""",76,231,30.8
+TIC,Chase Utley," ""PHI"""," ""Second Baseman""",73,183,28.2
+TIC,Danny Sandoval," ""PHI"""," ""Second Baseman""",71,192,27.9
+TIC,Jimmy Rollins," ""PHI"""," ""Shortstop""",68,167,28.26
+TIC,Abraham Nu?ez," ""PHI"""," ""Third Baseman""",71,190,30.96
+TIC,Michael Bourn," ""PHI"""," ""Outfielder""",71,180,24.18
+TIC,Chris Roberson," ""PHI"""," ""Outfielder""",74,180,27.52
+TIC,Jayson Werth," ""PHI"""," ""Outfielder""",77,215,27.78
+TIC,Shane Victorino," ""PHI"""," ""Outfielder""",69,160,26.25
+TIC,Aaron Rowand," ""PHI"""," ""Outfielder""",72,205,29.5
+TIC,Pat Burrell," ""PHI"""," ""Outfielder""",76,223,30.39
+TIC,Greg Dobbs," ""PHI"""," ""Designated Hitter""",73,205,28.66
+TIC,Cole Hamels," ""PHI"""," ""Starting Pitcher""",75,175,23.18
+TIC,Alfredo Simon," ""PHI"""," ""Starting Pitcher""",76,170,25.81
+TIC,Scott Mathieson," ""PHI"""," ""Starting Pitcher""",75,190,23.01
+TIC,Freddy Garcia," ""PHI"""," ""Starting Pitcher""",76,240,31.72
+TIC,Jamie Moyer," ""PHI"""," ""Starting Pitcher""",72,175,44.28
+TIC,Jon Lieber," ""PHI"""," ""Starting Pitcher""",74,230,36.91
+TIC,Brett Myers," ""PHI"""," ""Starting Pitcher""",76,223,26.54
+TIC,Adam Eaton," ""PHI"""," ""Starting Pitcher""",74,196,29.27
+TIC,Geoff Geary," ""PHI"""," ""Relief Pitcher""",72,167,30.51
+TIC,Clay Condrey," ""PHI"""," ""Relief Pitcher""",75,195,31.28
+TIC,Ryan Madson," ""PHI"""," ""Relief Pitcher""",78,190,26.51
+TIC,Antonio Alfonseca," ""PHI"""," ""Relief Pitcher""",77,250,34.87
+TIC,Tom Gordon," ""PHI"""," ""Relief Pitcher""",70,190,39.28
+TIC,Brian Sanches," ""PHI"""," ""Relief Pitcher""",72,190,28.56
+TIC,Jim Ed Warden," ""PHI"""," ""Relief Pitcher""",79,190,27.82
+TIC,Anderson Garcia," ""PHI"""," ""Relief Pitcher""",74,170,25.94
+TIC,Eude Brito," ""PHI"""," ""Relief Pitcher""",71,160,28.53
+TIC,Fabio Castro," ""PHI"""," ""Relief Pitcher""",68,150,22.11
+TIC,Matt Smith," ""PHI"""," ""Relief Pitcher""",77,225,27.71
+TIC,Damian Miller," ""MLW"""," ""Catcher""",75,220,37.38
+TIC,Johnny Estrada," ""MLW"""," ""Catcher""",71,209,30.67
+TIC,Mike Rivera," ""MLW"""," ""Catcher""",72,210,30.48
+TIC,J.D. Closser," ""MLW"""," ""Catcher""",70,176,27.12
+TIC,Prince Fielder," ""MLW"""," ""First Baseman""",72,260,22.81
+TIC,Rickie Weeks," ""MLW"""," ""Second Baseman""",72,195,24.46
+TIC,Tony Graffanino," ""MLW"""," ""Second Baseman""",73,190,34.73
+TIC,Craig Counsell," ""MLW"""," ""Shortstop""",72,184,36.53
+TIC,J.J. Hardy," ""MLW"""," ""Shortstop""",74,180,24.53
+TIC,Bill Hall," ""MLW"""," ""Shortstop""",72,195,27.17
+TIC,Vinny Rottino," ""MLW"""," ""Third Baseman""",72,195,26.9
+TIC,Corey Koskie," ""MLW"""," ""Third Baseman""",75,219,33.67
+TIC,Kevin Mench," ""MLW"""," ""Outfielder""",72,225,29.14
+TIC,Geoff Jenkins," ""MLW"""," ""Outfielder""",73,212,32.61
+TIC,Brady Clark," ""MLW"""," ""Outfielder""",74,202,33.87
+TIC,Tony Gwynn Jr.," ""MLW"""," ""Outfielder""",72,185,24.41
+TIC,Corey Hart," ""MLW"""," ""Outfielder""",78,200,24.94
+TIC,Gabe Gross," ""MLW"""," ""Outfielder""",75,209,27.36
+TIC,Laynce Nix," ""MLW"""," ""Outfielder""",72,200,26.33
+TIC,Drew Anderson," ""MLW"""," ""Outfielder""",74,195,25.72
+TIC,Claudio Vargas," ""MLW"""," ""Starting Pitcher""",75,228,28.7
+TIC,Chris Capuano," ""MLW"""," ""Starting Pitcher""",75,210,28.53
+TIC,Ben Hendrickson," ""MLW"""," ""Starting Pitcher""",76,190,26.07
+TIC,Dave Bush," ""MLW"""," ""Starting Pitcher""",74,212,27.31
+TIC,Carlos Villanueva," ""MLW"""," ""Starting Pitcher""",74,190,23.26
+TIC,Ben Sheets," ""MLW"""," ""Starting Pitcher""",73,218,28.62
+TIC,Jeff Suppan," ""MLW"""," ""Starting Pitcher""",74,220,32.16
+TIC,Brian Shouse," ""MLW"""," ""Relief Pitcher""",71,190,38.43
+TIC,Francisco Cordero," ""MLW"""," ""Relief Pitcher""",74,235,31.81
+TIC,Derrick Turnbow," ""MLW"""," ""Relief Pitcher""",75,210,29.1
+TIC,Matt Wise," ""MLW"""," ""Relief Pitcher""",76,200,31.28
+TIC,Grant Balfour," ""MLW"""," ""Relief Pitcher""",74,188,29.17
+TIC,Dennis Sarfate," ""MLW"""," ""Relief Pitcher""",76,210,25.89
+TIC,Jose Capellan," ""MLW"""," ""Relief Pitcher""",76,235,26.13
+TIC,Greg Aquino," ""MLW"""," ""Relief Pitcher""",73,188,29.13
+TIC,Josh Bard," ""SD"""," ""Catcher""",75,215,28.92
+TIC,Rob Bowen," ""SD"""," ""Catcher""",75,216,26.01
+TIC,Adrian Gonzalez," ""SD"""," ""First Baseman""",74,220,24.81
+TIC,Marcus Giles," ""SD"""," ""Second Baseman""",68,180,28.79
+TIC,Todd Walker," ""SD"""," ""Second Baseman""",72,185,33.77
+TIC,Geoff Blum," ""SD"""," ""Shortstop""",75,200,33.85
+TIC,Khalil Greene," ""SD"""," ""Shortstop""",71,210,27.36
+TIC,Paul McAnulty," ""SD"""," ""Outfielder""",70,220,26.01
+TIC,Terrmel Sledge," ""SD"""," ""Outfielder""",72,185,29.95
+TIC,Jack Cust," ""SD"""," ""Outfielder""",73,231,28.12
+TIC,Jose Cruz Jr.," ""SD"""," ""Outfielder""",72,210,32.87
+TIC,Russell Branyan," ""SD"""," ""Outfielder""",75,195,31.2
+TIC,Mike Cameron," ""SD"""," ""Outfielder""",74,200,34.14
+TIC,Brian Giles," ""SD"""," ""Outfielder""",70,205,36.11
+TIC,Kevin Kouzmanoff," ""SD"""," ""Designated Hitter""",73,200,25.6
+TIC,Mike Thompson," ""SD"""," ""Starting Pitcher""",76,200,26.31
+TIC,Clay Hensley," ""SD"""," ""Starting Pitcher""",71,190,27.5
+TIC,Chris Young," ""SD"""," ""Starting Pitcher""",82,250,27.77
+TIC,Greg Maddux," ""SD"""," ""Starting Pitcher""",72,185,40.88
+TIC,Jake Peavy," ""SD"""," ""Starting Pitcher""",73,180,25.75
+TIC,Scott Cassidy," ""SD"""," ""Relief Pitcher""",74,170,31.41
+TIC,Scott Strickland," ""SD"""," ""Relief Pitcher""",71,180,30.84
+TIC,Scott Linebrink," ""SD"""," ""Relief Pitcher""",75,208,30.57
+TIC,Doug Brocail," ""SD"""," ""Relief Pitcher""",77,235,39.79
+TIC,Trevor Hoffman," ""SD"""," ""Relief Pitcher""",72,215,39.38
+TIC,Heath Bell," ""SD"""," ""Relief Pitcher""",74,244,29.42
+TIC,Royce Ring," ""SD"""," ""Relief Pitcher""",72,220,26.19
+TIC,Cla Meredith," ""SD"""," ""Relief Pitcher""",73,185,23.74
+TIC,Andrew Brown," ""SD"""," ""Relief Pitcher""",78,230,26.03
+TIC,Mike Adams," ""SD"""," ""Relief Pitcher""",77,190,28.59
+TIC,Justin Hampson," ""SD"""," ""Relief Pitcher""",73,200,26.77
+TIC,Kevin Cameron," ""SD"""," ""Relief Pitcher""",73,180,27.21
+TIC,Ryan Ketchner," ""SD"""," ""Relief Pitcher""",73,190,24.87
+TIC,Brian Schneider," ""WAS"""," ""Catcher""",73,196,30.26
+TIC,Jesus Flores," ""WAS"""," ""Catcher""",73,180,22.34
+TIC,Larry Broadway," ""WAS"""," ""First Baseman""",76,230,26.2
+TIC,Nick Johnson," ""WAS"""," ""First Baseman""",75,224,28.45
+TIC,Bernie Castro," ""WAS"""," ""Second Baseman""",70,160,27.63
+TIC,Josh Wilson," ""WAS"""," ""Shortstop""",73,178,25.93
+TIC,Cristian Guzman," ""WAS"""," ""Shortstop""",72,205,28.94
+TIC,Felipe Lopez," ""WAS"""," ""Shortstop""",73,185,26.8
+TIC,Ryan Zimmerman," ""WAS"""," ""Third Baseman""",75,210,22.42
+TIC,Nook Logan," ""WAS"""," ""Outfielder""",74,180,27.26
+TIC,Ryan Church," ""WAS"""," ""Outfielder""",73,190,28.38
+TIC,Kory Casto," ""WAS"""," ""Outfielder""",73,200,25.23
+TIC,Mike Restovich," ""WAS"""," ""Outfielder""",76,257,28.16
+TIC,Alex Escobar," ""WAS"""," ""Outfielder""",73,190,28.48
+TIC,Austin Kearns," ""WAS"""," ""Outfielder""",75,220,26.78
+TIC,Chris Snelling," ""WAS"""," ""Outfielder""",70,165,25.24
+TIC,Billy Traber," ""WAS"""," ""Starting Pitcher""",77,205,27.45
+TIC,Tim Redding," ""WAS"""," ""Starting Pitcher""",72,200,29.05
+TIC,John Patterson," ""WAS"""," ""Starting Pitcher""",77,208,29.08
+TIC,Shawn Hill," ""WAS"""," ""Starting Pitcher""",74,185,25.84
+TIC,Joel Hanrahan," ""WAS"""," ""Starting Pitcher""",75,215,25.4
+TIC,Mike O'Connor," ""WAS"""," ""Starting Pitcher""",75,170,26.54
+TIC,Emiliano Fruto," ""WAS"""," ""Relief Pitcher""",75,235,22.73
+TIC,Chris Schroder," ""WAS"""," ""Relief Pitcher""",75,210,28.53
+TIC,Brett Campbell," ""WAS"""," ""Relief Pitcher""",72,170,25.37
+TIC,Beltran Perez," ""WAS"""," ""Relief Pitcher""",74,180,25.35
+TIC,Levale Speigner," ""WAS"""," ""Relief Pitcher""",71,170,26.43
+TIC,Jason Bergmann," ""WAS"""," ""Relief Pitcher""",76,190,25.43
+TIC,Saul Rivera," ""WAS"""," ""Relief Pitcher""",71,150,29.23
+TIC,Chris Booker," ""WAS"""," ""Relief Pitcher""",75,230,30.22
+TIC,Micah Bowie," ""WAS"""," ""Relief Pitcher""",76,203,32.3
+TIC,Jon Rauch," ""WAS"""," ""Relief Pitcher""",83,260,28.42
+TIC,Jerome Williams," ""WAS"""," ""Relief Pitcher""",75,246,25.24
+TIC,Luis Ayala," ""WAS"""," ""Relief Pitcher""",74,186,29.13
+TIC,Ryan Wagner," ""WAS"""," ""Relief Pitcher""",76,210,24.63
+TIC,Chad Cordero," ""WAS"""," ""Relief Pitcher""",72,198,24.95
+TIC,Humberto Cota," ""PIT"""," ""Catcher""",72,210,28.06
+TIC,Ronny Paulino," ""PIT"""," ""Catcher""",75,215,25.86
+TIC,Adam LaRoche," ""PIT"""," ""First Baseman""",75,180,27.32
+TIC,Ryan Doumit," ""PIT"""," ""First Baseman""",72,200,25.91
+TIC,Brad Eldred," ""PIT"""," ""First Baseman""",77,245,26.63
+TIC,Jose Castillo," ""PIT"""," ""Second Baseman""",73,200,25.95
+TIC,Jack Wilson," ""PIT"""," ""Shortstop""",72,192,29.17
+TIC,Freddy Sanchez," ""PIT"""," ""Third Baseman""",70,192,29.19
+TIC,Jason Bay," ""PIT"""," ""Outfielder""",74,200,28.44
+TIC,Jose Bautista," ""PIT"""," ""Outfielder""",72,192,26.36
+TIC,Xavier Nady," ""PIT"""," ""Outfielder""",74,205,28.29
+TIC,Jody Gerut," ""PIT"""," ""Outfielder""",72,190,29.45
+TIC,Nate McLouth," ""PIT"""," ""Outfielder""",71,186,25.34
+TIC,Chris Duffy," ""PIT"""," ""Outfielder""",70,170,26.86
+TIC,Rajai Davis," ""PIT"""," ""Outfielder""",71,197,26.36
+TIC,Shane Youman," ""PIT"""," ""Starting Pitcher""",76,219,27.39
+TIC,Yoslan Herrera," ""PIT"""," ""Starting Pitcher""",74,200,25.84
+TIC,Josh Shortslef," ""PIT"""," ""Starting Pitcher""",76,220,25.08
+TIC,Zach Duke," ""PIT"""," ""Starting Pitcher""",74,207,23.87
+TIC,Paul Maholm," ""PIT"""," ""Starting Pitcher""",74,225,24.68
+TIC,Tom Gorzelanny," ""PIT"""," ""Starting Pitcher""",74,207,24.64
+TIC,Shawn Chacon," ""PIT"""," ""Starting Pitcher""",75,212,29.19
+TIC,Tony Armas Jr.," ""PIT"""," ""Starting Pitcher""",75,225,28.84
+TIC,Ian Snell," ""PIT"""," ""Starting Pitcher""",71,170,25.33
+TIC,Sean Burnett," ""PIT"""," ""Starting Pitcher""",71,190,24.45
+TIC,John Grabow," ""PIT"""," ""Relief Pitcher""",74,210,28.32
+TIC,Marty McLeary," ""PIT"""," ""Relief Pitcher""",77,230,32.34
+TIC,Salomon Torres," ""PIT"""," ""Relief Pitcher""",71,210,34.97
+TIC,Damaso Marte," ""PIT"""," ""Relief Pitcher""",74,200,32.04
+TIC,Matt Capps," ""PIT"""," ""Relief Pitcher""",75,238,23.49
+TIC,Josh Sharpless," ""PIT"""," ""Relief Pitcher""",77,234,26.09
+TIC,Bryan Bullington," ""PIT"""," ""Relief Pitcher""",76,222,26.41
+TIC,Jonah Bayliss," ""PIT"""," ""Relief Pitcher""",74,200,26.55
+TIC,Brian Rogers," ""PIT"""," ""Relief Pitcher""",76,190,24.62
+TIC,Juan Perez," ""PIT"""," ""Relief Pitcher""",72,170,28.49
+TIC,Bengie Molina," ""SF"""," ""Catcher""",71,220,32.61
+TIC,Eliezer Alfonzo," ""SF"""," ""Catcher""",72,223,28.06
+TIC,Lance Niekro," ""SF"""," ""First Baseman""",75,210,28.08
+TIC,Mark Sweeney," ""SF"""," ""First Baseman""",73,215,37.34
+TIC,Ray Durham," ""SF"""," ""Second Baseman""",68,196,35.25
+TIC,Kevin Frandsen," ""SF"""," ""Second Baseman""",72,175,24.77
+TIC,Omar Vizquel," ""SF"""," ""Shortstop""",69,175,39.85
+TIC,Rich Aurilia," ""SF"""," ""Third Baseman""",73,189,35.49
+TIC,Pedro Feliz," ""SF"""," ""Third Baseman""",73,205,31.84
+TIC,Todd Linden," ""SF"""," ""Outfielder""",75,210,26.67
+TIC,Dave Roberts," ""SF"""," ""Outfielder""",70,180,34.75
+TIC,Jason Ellison," ""SF"""," ""Outfielder""",70,180,28.91
+TIC,Randy Winn," ""SF"""," ""Outfielder""",74,197,32.73
+TIC,Ryan Klesko," ""SF"""," ""Outfielder""",75,220,35.72
+TIC,Barry Bonds," ""SF"""," ""Outfielder""",74,228,42.6
+TIC,Fred Lewis," ""SF"""," ""Outfielder""",74,190,26.22
+TIC,Kelyn Acosta," ""SF"""," ""Starting Pitcher""",73,204,21.85
+TIC,Jonathan Sanchez," ""SF"""," ""Starting Pitcher""",74,165,24.28
+TIC,Matt Cain," ""SF"""," ""Starting Pitcher""",75,216,22.41
+TIC,Matt Morris," ""SF"""," ""Starting Pitcher""",77,220,32.56
+TIC,Russ Ortiz," ""SF"""," ""Starting Pitcher""",73,208,32.74
+TIC,Noah Lowry," ""SF"""," ""Starting Pitcher""",74,210,26.39
+TIC,Barry Zito," ""SF"""," ""Starting Pitcher""",76,215,28.8
+TIC,Vinnie Chulk," ""SF"""," ""Relief Pitcher""",74,195,28.2
+TIC,Kevin Correia," ""SF"""," ""Relief Pitcher""",75,200,26.52
+TIC,Steve Kline," ""SF"""," ""Relief Pitcher""",73,215,34.52
+TIC,Armando Benitez," ""SF"""," ""Relief Pitcher""",76,229,34.32
+TIC,Scott Munter," ""SF"""," ""Relief Pitcher""",78,240,26.98
+TIC,Jack Taschner," ""SF"""," ""Relief Pitcher""",75,207,28.86
+TIC,Brian Wilson," ""SF"""," ""Relief Pitcher""",73,205,24.96
+TIC,Merkin Valdez," ""SF"""," ""Relief Pitcher""",77,208,25.3
+TIC,Brad Hennessey," ""SF"""," ""Relief Pitcher""",74,185,27.06
+TIC,Billy Sadler," ""SF"""," ""Relief Pitcher""",72,190,25.44
+TIC,Pat Misch," ""SF"""," ""Relief Pitcher""",74,170,25.53
+TIC,Gary Bennett," ""STL"""," ""Catcher""",72,208,34.87
+TIC,Yadier Molina," ""STL"""," ""Catcher""",71,225,24.63
+TIC,John Nelson," ""STL"""," ""First Baseman""",73,190,27.99
+TIC,Albert Pujols," ""STL"""," ""First Baseman""",75,225,27.12
+TIC,Adam Kennedy," ""STL"""," ""Second Baseman""",73,185,31.14
+TIC,Aaron Miles," ""STL"""," ""Second Baseman""",67,180,30.21
+TIC,David Eckstein," ""STL"""," ""Shortstop""",67,165,32.11
+TIC,Scott Rolen," ""STL"""," ""Third Baseman""",76,240,31.91
+TIC,Scott Spiezio," ""STL"""," ""Third Baseman""",74,220,34.44
+TIC,Jim Edmonds," ""STL"""," ""Outfielder""",73,212,36.68
+TIC,So Taguchi," ""STL"""," ""Outfielder""",70,163,37.66
+TIC,Juan Encarnacion," ""STL"""," ""Outfielder""",75,215,30.98
+TIC,Skip Schumaker," ""STL"""," ""Outfielder""",70,175,27.07
+TIC,John Rodriguez," ""STL"""," ""Outfielder""",72,205,29.11
+TIC,Chris Duncan," ""STL"""," ""Outfielder""",77,210,25.82
+TIC,Adam Wainwright," ""STL"""," ""Starting Pitcher""",79,205,25.5
+TIC,Mark Mulder," ""STL"""," ""Starting Pitcher""",78,208,29.57
+TIC,Anthony Reyes," ""STL"""," ""Starting Pitcher""",74,215,25.37
+TIC,Ryan Franklin," ""STL"""," ""Starting Pitcher""",75,180,33.99
+TIC,Kip Wells," ""STL"""," ""Starting Pitcher""",75,200,29.86
+TIC,Chris Carpenter," ""STL"""," ""Starting Pitcher""",78,230,31.84
+TIC,Russ Springer," ""STL"""," ""Relief Pitcher""",76,211,38.31
+TIC,Jason Isringhausen," ""STL"""," ""Relief Pitcher""",75,230,34.48
+TIC,Ricardo Rincon," ""STL"""," ""Relief Pitcher""",69,190,36.88
+TIC,Braden Looper," ""STL"""," ""Relief Pitcher""",75,220,32.34
+TIC,Randy Flores," ""STL"""," ""Relief Pitcher""",72,180,31.58
+TIC,Josh Hancock," ""STL"""," ""Relief Pitcher""",75,205,28.89
+TIC,Brad Thompson," ""STL"""," ""Relief Pitcher""",73,190,25.08
+TIC,Tyler Johnson," ""STL"""," ""Relief Pitcher""",74,180,25.73
+TIC,Chris Narveson," ""STL"""," ""Relief Pitcher""",75,205,25.19
+TIC,Randy Keisler," ""STL"""," ""Relief Pitcher""",75,190,31.01
+TIC,Josh Kinney," ""STL"""," ""Relief Pitcher""",73,195,27.92
