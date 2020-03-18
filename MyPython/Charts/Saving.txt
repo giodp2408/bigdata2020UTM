@@ -1,4 +1,4 @@
-﻿Month,Money,
+Month,Money,
 January,305,
 February,-234,
 March,404,
