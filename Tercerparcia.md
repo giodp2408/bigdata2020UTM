@@ -43,8 +43,21 @@ understand the operation or process of data analysis while the analyst is only r
 
 ### Define the concepts of data acquisition, management, process and administration
 
-* Acquisition: It is the process that is carried out to collect data from a population or sample of it. Many techniques are applied to collect them, such as surveys or questionnaires, but there are other ways where the computer is responsible for doing so, since we all generate data at any time and time.
-* Management: When the data is acquired, they are generally raw and do not establish a clear order, so it is required to order them for easy analysis. It is important to do so since poor management could not provide true results. There are useful techniques such as tidy data.
-* Process: When the data is already ordered, it can already be processed to become valuable information. Generally, tools are used to carry it out and graphs are created to show results. Python and R Studio are good tools for this part.
-* Administration: The information and data generated are stored on a server. In this part, solutions are implemented to keep the information secure and stable. Backups are made for recovery, security, user authentication.
+* Acquisition: It is the process that is carried out to collect data from a population or sample of it. Many techniques are applied to 
+collect them, such as surveys or questionnaires, but there are other ways where the computer is responsible for doing so, since we all 
+generate data at any time and time.
+* Management: When the data is acquired, they are generally raw and do not establish a clear order, so it is required to order them for 
+easy analysis. It is important to do so since poor management could not provide true results. There are useful techniques such as tidy 
+data.
+* Process: When the data is already ordered, it can already be processed to become valuable information. Generally, tools are used to 
+carry it out and graphs are created to show results. Python and R Studio are good tools for this part.
+* Administration: The information and data generated are stored on a server. In this part, solutions are implemented to keep the 
+information secure and stable. Backups are made for recovery, security, user authentication.
+
+### Describe the Lambda and Kappa architectures
+
+* In a lambda architecture it implements the information systems: batch and stream. The batch mode gives us a complete and reliable 
+reach while the stream mode gives us the online data for instant decisions.
+* In the kappa architecture, it focuses only on processing data as a sequence. For this architecture, incoming data is transmitted 
+through a real-time layer and the results are placed in the service layer for queries.
 
