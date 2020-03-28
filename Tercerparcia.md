@@ -91,6 +91,11 @@ through a real-time layer and the results are placed in the service layer for qu
     - Very different code for MapReduce and Storm / Apache Spark
     - Plus, it's not just about different code, it's also about debugging and interacting with other products.
     - In the end it is a problem about divergent and different programming paradigms.
+ * Kappa
+  - Advantages:
+    - It is only recomputed when there is a change in the code.
+    - Only one code is maintained.
+    - Kafka data can be dumped to HDFS (disk), if any memory limitations.
 
 
 
