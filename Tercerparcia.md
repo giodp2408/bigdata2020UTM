@@ -1,4 +1,10 @@
+### Describe the different data analysis architectures
 
+The most common architectures are mainly two: Lambda Architecture and Kappa Architecture. The main difference between the two is the 
+data processing flows involved, but it is necessary to know concepts about batch processing and streaming processing.
+* Batch refers to a process that involves a set of data and that has a beginning and an end in time.
+* Processing is of the streaming type when it is continuously receiving and treating new information as it arrives without having an end 
+regarding the temporal section.
 
 ### Describes the characteristics of a data center
 
