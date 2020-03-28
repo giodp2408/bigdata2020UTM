@@ -33,3 +33,11 @@ licenses.
   - Reduces traffic between smart devices and cloud storage while saving costs.
   - Gives the user more visible control over the information that it generates.
   - Possibility of offline operation.
+  
+ ### Understand the concept of Data Engineering.
+
+Use advanced programming as well as system building skills to create software solutions. The engineer understands not only how to build 
+a data stream, but how to combine a variety of technologies and frameworks to create the best solution for the business.His tools of a 
+data engineer can include systems like Oracle, Hadoop, MySQL, as well as languages. which include Java, Linux, SQL and JavaScript. They 
+understand the operation or process of data analysis while the analyst is only responsible for analyzing the behavior of such data.
+
