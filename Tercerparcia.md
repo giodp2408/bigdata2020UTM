@@ -80,9 +80,17 @@ through a real-time layer and the results are placed in the service layer for qu
   - Your proposal is to remove the batch layer leaving only the streaming layer. It has no beginning or end from a time point of view 
   and is continually processing new data as it arrives.
   
-### Contrastar las ventajas y desventajas de cada arquitectura de big data con respecto a las arquitecturas incrementales.
- 
-Lambda
+### Contrast the advantages and disadvantages of each big data architecture with respect to incremental architectures.
+
+*Lambda
+  - Advantages:
+    - Keep the input data unchanged.
+    - This allows data to be reprocessed when criteria changes occur.
+  - Disadvantages:
+    - Maintain different code to produce the same result from two cumbersome complex distributed systems
+    - Very different code for MapReduce and Storm / Apache Spark
+    - Plus, it's not just about different code, it's also about debugging and interacting with other products.
+    - In the end it is a problem about divergent and different programming paradigms.
 
 
 
