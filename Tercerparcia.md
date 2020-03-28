@@ -77,4 +77,13 @@ through a real-time layer and the results are placed in the service layer for qu
   - The response to the queries made is built by combining the results of the Batch Views and the views in real time.
 
 * Kappa:
-  - Your proposal is to remove the batch layer leaving only the streaming layer. It has no beginning or end from a time point of view and is continually processing new data as it arrives.
+  - Your proposal is to remove the batch layer leaving only the streaming layer. It has no beginning or end from a time point of view 
+  and is continually processing new data as it arrives.
+  
+### Contrastar las ventajas y desventajas de cada arquitectura de big data con respecto a las arquitecturas incrementales.
+ 
+Lambda
+
+
+
+  
