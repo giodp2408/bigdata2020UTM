@@ -82,7 +82,7 @@ through a real-time layer and the results are placed in the service layer for qu
   
 ### Contrast the advantages and disadvantages of each big data architecture with respect to incremental architectures.
 
-*Lambda
+* Lambda
   - Advantages:
     - Keep the input data unchanged.
     - This allows data to be reprocessed when criteria changes occur.
