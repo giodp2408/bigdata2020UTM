@@ -61,3 +61,14 @@ reach while the stream mode gives us the online data for instant decisions.
 * In the kappa architecture, it focuses only on processing data as a sequence. For this architecture, incoming data is transmitted 
 through a real-time layer and the results are placed in the service layer for queries.
 
+### Describe the layers of each architecture
+
+* Lambda:
+  - The new information collected by the system is sent to both the batch layer and the streaming layer.
+  - Batch layer manages the raw information, that is, without modifying it.
+  - Serving Layer, indexes the Batch Views generated in the previous step so that they can be consulted with low latency.
+  - Speed Layer, compensates for the high write latency that occurs in the serving layer and only takes into account new data.
+  - The response to the queries made is built by combining the results of the Batch Views and the views in real time.
+
+* Kappa:
+  - Your proposal is to remove the batch layer leaving only the streaming layer. It has no beginning or end from a time point of view and is continually processing new data as it arrives.
