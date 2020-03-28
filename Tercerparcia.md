@@ -3,15 +3,14 @@
 The most common architectures are mainly two: Lambda Architecture and Kappa Architecture. The main difference between the two is the 
 data processing flows involved, but it is necessary to know concepts about batch processing and streaming processing.
 * Lambda:
-- Oriented to traditional data analytics.
-- Large volumes of static data are collected and processed periodically while dynamic data is processed “on the fly”, thus combining 
-volume and speed.
+  - Oriented to traditional data analytics.
+  - Large volumes of static data are collected and processed periodically while dynamic data is processed “on the fly”, thus combining 
+  volume and speed.
 * Kappa:
-- Oriented to real-time analytics (soft strict).
-- Data storage is avoided and is processed as soon as it is received, minimizing the time the data is in the pipeline.
-- The idea here is not to recompute all the data in the batch layer, but to do it in the streaming layer and only to recompute if there 
-is a change in business logic.
-
+  - Oriented to real-time analytics (soft strict).
+  - Data storage is avoided and is processed as soon as it is received, minimizing the time the data is in the pipeline.
+  - The idea here is not to recompute all the data in the batch layer, but to do it in the streaming layer and only to recompute if
+  there is a change in business logic.
 
 ### Describes the characteristics of a data center
 
