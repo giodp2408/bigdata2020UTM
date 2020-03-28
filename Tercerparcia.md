@@ -14,3 +14,22 @@ it is generally used for access to information.
 
 * Maintenance and prevention: You must have air conditioners to keep the place cool because the teams work 24/7. In addition, they must be 
 equipped with specialized fire detection and protection systems for servers.
+
+### Identify the characteristics of Cloud and Fog data analysis
+
+* Cloud
+- They are in fixed monthly payments for use, without additional costs, since there is no need to invest in large infrastructure or 
+licenses.
+- The data is always safe.
+- There is no need to have a large storage capacity.
+- Faster work when being based on the web.
+- Information in real time.
+- Strong investment in innovation.
+- Access to all information.
+-Access when you want and where you want, only with an Internet connection.
+
+* Fog:
+- Proposes a solution to problems related to the implementation of the Internet of Things.
+- Reduces traffic between smart devices and cloud storage while saving costs.
+- Gives the user more visible control over the information that it generates.
+- Possibility of offline operation.
